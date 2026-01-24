@@ -17,7 +17,7 @@
 
 <!-- ✅ Cyberpunk Cover Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Oshankhati/Oshankhati/main/assets/cyberpunk-cover.gif" width="90%" />
+  <img src="https://raw.githubusercontent.com/Oshankhati/Oshankhati/main/assets/cyberpunk-cover.gif.png" width="90%" />
 </p>
 
 ---
