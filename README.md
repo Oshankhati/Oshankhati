@@ -8,7 +8,7 @@
 
 <!-- ✅ Social Buttons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/oshan-khati-72894b390" target="_blank">
+  <a href="https://www.linkedin.com/in/oshan-khati-973932302" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:oshankhati02@gmail.com">
